@@ -1,0 +1,5 @@
+111,calculo I,4,obligatoria,1,0
+112,calculo II,4,obligatoria,2,1,111
+113,calculo III,4,obligatoria,3,2,111,112
+222,ingles,2,opcional,4
+114,mecanica,4,obligatoria,4,3,111,112,113
